@@ -1,5 +1,10 @@
-#!/bin/baah
-ls
-chmod u+x 1-listit
-od u+x 1-listit
-
+0-current
+0-current_working_directory
+1-listit
+1-tistit
+9-current_working_directory
+README.md
+READNE.md
+working_directory
+#!/bin/bash
+#ls
